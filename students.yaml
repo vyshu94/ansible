@@ -1,0 +1,27 @@
+- name: "Vyshnavi"
+  dob: "1994-08-94"
+  mobileNumber: 1234567890
+  addresses:
+  -flatNumber: 104
+   street: "gandhi nagar"
+   city: "banglore"
+   type: "permanent"
+
+  -flatNumber: 104
+   street: "gandhi nagar"
+   city: "banglore"
+   type: "current"
+
+- name: "Vyshu"
+  dob: "1994-06-94"
+  mobileNumber: 1234567980
+  addresses:
+  -flatNumber: 102
+   street: "gandhi nagar"
+   city: "banglore"
+   type: "permanent"
+   
+  -flatNumber: 102
+   street: "gandhi nagar"
+   city: "banglore"
+   type: "current"
